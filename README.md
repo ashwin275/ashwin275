@@ -1,8 +1,8 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://ashwinraj275.io)
+
 <h1 align="center">Hi 👋, I'm Ashwin Raj ck</h1>
 <h3 align="center">A passionate FullStack dev from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/659a91ae49a4694e36f3f67a36b94a1a4830e26b720db094aa15e79c8c9ddece/68747470733a2f2f616d70726f6e2e65752f77702d636f6e74656e742f75706c6f6164732f323031392f30312f636f64652d646576656c6f7065722e676966">
+
 
 
 
