@@ -9,9 +9,9 @@
 
 
 
-- 🔭 Currently working in [BROTOTYPE]([https://brototype.com/])
+- 🔭 Currently working in [Ethan AI]([https://www.ethan-ai.com/])
 
-- 🌱  **Python Django , rest-api , react**
+- 🌱  **Python Django ,fast api,postgresql,aws, rest-api , react**
 
 
 
