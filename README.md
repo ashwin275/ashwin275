@@ -9,7 +9,7 @@
 
 
 
-- 🔭 Currently working in [Ethan AI]([https://www.ethan-ai.com/])
+- 🔭 Currently working in [DHIWAY]([https://dhiway.com/])
 
 - 🌱  **Python Django ,fast api,postgresql,aws, rest-api , react**
 
