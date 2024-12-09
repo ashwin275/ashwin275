@@ -11,11 +11,11 @@
 
 - 🔭 Currently working in [DHIWAY]([https://dhiway.com/])
 
-- 🌱  **Python Django ,fast api,postgresql,aws, rest-api , react**
+- 🌱  **Rust,Javascript,typesript,Python Django ,fast api,postgresql,aws, rest-api , react**
 
 
 
-- 💬 Ask me about **Python,Rest-api,Sql,Java,C**
+- 💬 Ask me about **Rust,Python,Rest-api,Sql,Java,C**
 
 - 📫 reach me **ashwinraj275@gmail.com**
 
